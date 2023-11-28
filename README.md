@@ -14,5 +14,8 @@
   
 ⚡ I’m passionate about using cutting edge technologies like Virtual Reality on impactful research.
   
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/damlakuleli/)
-
+📫 How to reach me: 
+ </a>
+  <a href="https://linkedin.com/in/damlakuleli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
