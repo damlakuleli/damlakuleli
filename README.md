@@ -6,7 +6,7 @@
 
 <br/>
 
-🔭 I am currently on an exciting journey working on my PhD project, which focuses on the influence of social anxiety on embodied face perception. I am using EEG (electroencephalography) and Virtual Reality for my research.
+🔭 I am currently on an exciting journey working on my PhD project, which focuses on the influence of social anxiety on embodied face perception during effective social interactions. I am using EEG (electroencephalography) and Virtual Reality for my research.
 
   You can find more information about my project on its GitHub page. [GitHub Project Page](https://github.com/SAEFP)
   
