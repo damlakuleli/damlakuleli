@@ -10,9 +10,9 @@
 
   You can find more information about my project on its GitHub page. [GitHub Project Page for SAEFP](https://github.com/SAEFP)
   
-🧠 I’m interested in cognitive, clinical and social psychology and using neuroimagining techniques.
+🧠 I’m interested in cognitive and affective neuroscience, clinical and social psychology and using neuroimagining techniques.
   
-⚡ I’m passionate about using cutting edge technologies like Virtual Reality on impactful research.
+⚡ I’m passionate about using cutting edge technologies like Virtual Reality.
   
 📫 How to reach me: 
  </a>
